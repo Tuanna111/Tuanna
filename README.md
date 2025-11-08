@@ -8,12 +8,11 @@ Sou **Analista de Seguros de Transportes** e **Engenheira de Dados em formação
 ![BigData](https://img.shields.io/badge/Big%20Data-0078D4?logo=databricks&logoColor=white)
 
 ## O que faço
-Atuo criando soluções que conectam análise de dados, experiência do usuário e automação de processos.  
-Meus projetos unem eficiência técnica e propósito, com foco em transformação digital no setor de seguros.
+Meus projetos unem eficiência técnica e propósito, com foco em transformação digital no setor de seguros de transportes.
 
 ## Projetos em andamento
 - **NexLog** – Sistema inteligente de cotação e acompanhamento de apólices de seguro transporte.  
-- **Elumya** – Plataforma de conteúdo sobre autoconhecimento e propósito.  
+- **Elumya** – Plataforma de conteúdo sobre autoconhecimento e propósito.
 
 *(Ambos em desenvolvimento privado.)*
 
