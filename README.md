@@ -1,8 +1,8 @@
 # Olá, eu sou a Tuanna
 
-Sou **Analista de Seguros de Transportes** e estudante de **Big Data e Inteligência Analítica**, com foco em tecnologia, dados e automação aplicada a processos de negócio.
+Sou **Analista de Marine Cargo** e estudante de **Big Data e Inteligência Analítica**, em fase de aprofundamento prático em tecnologia, dados e automação aplicada a processos de negócio.
 
-Atuo no desenvolvimento de soluções que unem **eficiência operacional, análise de dados e automação**, especialmente no contexto de operações corporativas e sistemas de suporte à decisão.
+Atualmente, estou desenvolvendo e testando soluções que combinam **análise de dados, automação e melhoria de processos**, com foco em aprender na prática e evoluir tecnicamente dentro de contextos corporativos.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
@@ -10,29 +10,32 @@ Atuo no desenvolvimento de soluções que unem **eficiência operacional, análi
 ![BigData](https://img.shields.io/badge/Big%20Data-0078D4?logo=databricks&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-Automation-FF6D5A?logo=n8n&logoColor=white)
 
-## O que faço
+## O que estou fazendo agora
 
-Desenvolvo **projetos técnicos e experimentais** voltados à automação de processos, organização de dados, integração de sistemas e criação de soluções escaláveis para ambientes corporativos.
+Trabalho no desenvolvimento de **projetos técnicos e experimentais**, voltados à automação de processos, organização de dados e integração entre ferramentas, como forma de aprendizado prático e construção gradual de soluções escaláveis.
 
-Meu foco está em:
-- Automação de fluxos operacionais
-- Tratamento e organização de dados
-- Integração entre sistemas e APIs
-- Apoio à tomada de decisão com dados
+Meu foco atual está em:
+- Aprender automação de fluxos operacionais
+- Estruturar e tratar dados para análise
+- Integrar sistemas e APIs em cenários reais
+- Explorar o uso de dados como apoio à tomada de decisão
 
-## Projetos em andamento
+## Projetos em desenvolvimento
 
-- **Sistema interno de automação e workflows**  
-  Desenvolvimento de fluxos com n8n para otimização de processos, integração de ferramentas e redução de tarefas manuais.
+- **Automação interna e workflows experimentais**  
+  Construção e teste de fluxos com n8n para compreender padrões de automação, integração de sistemas e redução de tarefas manuais.
 
-- **Sistema inteligente de apoio a operações de seguros**  
-  Projeto em evolução para análise, acompanhamento e organização de dados relacionados a seguros de transportes.
+- **Sistema de apoio a operações de seguros**  
+  Projeto em evolução para estudar e organizar dados relacionados a operações de seguros de transportes, com foco em análise e melhoria de processos.
 
-*(Os projetos estão em fase privada de desenvolvimento e experimentação.)*
+*(Projetos em fase privada de desenvolvimento e aprendizado prático.)*
 
 ## Interesses técnicos
 
-`Python` • `FastAPI` • `SQL` • `Power BI` • `Automação de Processos` • `Big Data` • `Machine Learning` • `n8n`
+`Python` • `SQL` • `Power BI` • `n8n` • `Automação de Processos` • 
+`Data Engineering` • `Data Modeling` • `APIs & Integrations` • 
+`ETL / ELT` • `Cloud Fundamentals` • 
+`Big Data` • `Machine Learning (em estudo)`
 
 ## 🌐 Conecte-se comigo
 
