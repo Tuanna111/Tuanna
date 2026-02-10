@@ -1,29 +1,40 @@
 # Olá, eu sou a Tuanna
 
-Sou **Analista de Seguros de Transportes** e estudante de **Big Data e Inteligência Analítica**, apaixonada por tecnologia, dados e inovação aplicada ao mercado de seguros.
+Sou **Analista de Seguros de Transportes** e estudante de **Big Data e Inteligência Analítica**, com foco em tecnologia, dados e automação aplicada a processos de negócio.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi\&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi\&logoColor=black)
-![BigData](https://img.shields.io/badge/Big%20Data-0078D4?logo=databricks\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-FF6D5A?logo=n8n\&logoColor=white)
+Atuo no desenvolvimento de soluções que unem **eficiência operacional, análise de dados e automação**, especialmente no contexto de operações corporativas e sistemas de suporte à decisão.
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![BigData](https://img.shields.io/badge/Big%20Data-0078D4?logo=databricks&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-FF6D5A?logo=n8n&logoColor=white)
 
 ## O que faço
 
-Desenvolvo projetos que unem **dados, automação e eficiência operacional**, com foco em transformação digital no setor de seguros de transportes.
+Desenvolvo **projetos técnicos e experimentais** voltados à automação de processos, organização de dados, integração de sistemas e criação de soluções escaláveis para ambientes corporativos.
+
+Meu foco está em:
+- Automação de fluxos operacionais
+- Tratamento e organização de dados
+- Integração entre sistemas e APIs
+- Apoio à tomada de decisão com dados
 
 ## Projetos em andamento
 
-* **NexLog** – Sistema inteligente de cotação e acompanhamento de apólices de seguro transporte.
-* **Elumya** – Plataforma de conteúdo e desenvolvimento humano orientada a propósito.
-* **Automação com n8n** – Desenvolvimento de fluxos de automação integrando APIs, bancos de dados e sistemas de workflow para otimização de processos corporativos.
+- **Sistema interno de automação e workflows**  
+  Desenvolvimento de fluxos com n8n para otimização de processos, integração de ferramentas e redução de tarefas manuais.
 
-*(Projetos atualmente em desenvolvimento privado.)*
+- **Sistema inteligente de apoio a operações de seguros**  
+  Projeto em evolução para análise, acompanhamento e organização de dados relacionados a seguros de transportes.
 
-## Interesses
+*(Os projetos estão em fase privada de desenvolvimento e experimentação.)*
 
-`Python` • `FastAPI` • `Power BI` • `SQL` • `Automação de Processos` • `Big Data` • `Machine Learning` • `n8n`
+## Interesses técnicos
+
+`Python` • `FastAPI` • `SQL` • `Power BI` • `Automação de Processos` • `Big Data` • `Machine Learning` • `n8n`
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tuanna-moreira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanna-moreira/)
+
